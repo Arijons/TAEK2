@@ -10,7 +10,8 @@ svar: Það er reglegt og kerfisbundið, atugun, þrif, útskipti á eiddum hlut
 
 4. Fyrir hvað stendur skammstöfunin ESD, hvað er það og hvaða leiðir höfum við til að
 verjast því þegar unnið er með tölvubúnað?
-svar: Það þýðir ef rafhleðsla hleypur milli tveggja rafmagns tækja og tækin slá út eða skemmast.
+svar: Það þýðir ef rafhleðsla hleypur milli tveggja rafmagns tækja og tækin slá út eða skemmast. 1.Antistatik mottur undir hlutina eða á gólfinu.
+2.vera með antistatik armband og  poka utan um í hluti.
 
 5. Hvað þarf að hafa í huga við val á spennugjöfum?
 svar: 1.Það þarf nægan straum fyrir alla rafmagns hlutina í tölvuni.
