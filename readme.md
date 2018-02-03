@@ -28,6 +28,7 @@ svar: 1.skilja hvað er vandin.
 
 7. Hver er munurinn á opinn (e. open ended) og lokaðri (closed ended) spurningu?
 Nefnið dæmi um báðar gerðir af spurningum.
+svar: opin spurning er að fá djúft svar frá þeim sem var spurður sem byggir á þekkingu hans.
 
 8. Hvað eru jaðartæki?
 
