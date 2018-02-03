@@ -31,10 +31,16 @@ Nefnið dæmi um báðar gerðir af spurningum.
 svar: opin spurning er að fá djúft svar frá þeim sem var spurður sem byggir á þekkingu hans.Loka spurning er spurning sem er með stutt svar.
 
 8. Hvað eru jaðartæki?
-skjár, prentari, harðdiskar og liklaborð
+svar:skjár, prentari, harðdiskar og liklaborð
 
 9. Nefndu þrjú dæmi um inntakstæki.
+svar: liklaborð, mús og diskur.
 
 10. Notaðu vefsíður íslenskra tölvuverslana til að velja íhluti til að setja saman góða
 leikjatölvu. Þú ert með fjármagn upp á 250 þúsund krónur. Settu upp töflu þar sem
 fram kemur hvaða íhluti þú valdir, hvað hver íhlutur kostar og hvar hann fæst.
+svar:1.Cooler Master B400W aflgjafi V2 - OEM(6.746kr)
+2. Cooler Master Silencio 352 m-ATX/ITX turnkassi(10.797kr)
+3. MSI X99A GAMING 7 2011 ATX 8XDDR4, 4x PCIe 2/3, 10x SATA3, USB3.(40.496.kr)
+4. Intel Core i7 7700K 4.2GHz S1151 14nm 6MB(49.995kr)
+5. Hynix 8GB 1600Mhz 1.35 ECC REG2Rx8(16.097kr)
