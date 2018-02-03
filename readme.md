@@ -18,6 +18,13 @@ svar: 1.Það þarf nægan straum fyrir alla rafmagns hlutina í tölvuni.
 2.hann þarf að passa inn í kassan sem er utanum tölvuna. 
 
 6. Hver eru hin 6 skref við bilanagreiningu og viðgerðir?
+svar: 1.skilja hvað er vandin.
+	  2.koma með tilgátu um hvað veldur vandanum.
+	  3.prófa tilgátuna.
+	  4.búa til plan til þess að leisa vandan.
+	  5.staðfesta að vandinn sé leistur.Fyrir byggjandi.
+	  6.Documenta
+
 
 7. Hver er munurinn á opinn (e. open ended) og lokaðri (closed ended) spurningu?
 Nefnið dæmi um báðar gerðir af spurningum.
